@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jianbin Fang"
+title                    : "Dr. Chuanfu Xu"
 title_separator          : "-"
-name                     : &name "Jianbin Fang"
+name                     : &name "Chuanfu Xu"
 description              : &description "Research scientist at National University of Defense Technology"
-url                      : "https://jianbinfang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://HPCCFD.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jianbinfang.github.io"
+repository               : "HPCCFD.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianbin Fang"
-  avatar           : "photo_jianbinfang_v20200306.jpg"
+  name             : "Chuanfu Xu"
+  avatar           : "xcf.jpg"
   bio              : "Computer scientist"
   location         : "Changsha, China"
   employer         :
-  googlescholar    : "https://scholar.google.es/citations?user=wVyjms4AAAAJ&hl=en"
-  email            : "j.LASTNAME@nudt.edu.cn"
+  googlescholar    : 
+  email            : "xuchuanfu@nudt.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jianbinfang"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
